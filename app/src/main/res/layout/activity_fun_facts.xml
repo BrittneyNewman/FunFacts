@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_fun_facts"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="50dp"
     android:paddingLeft="50dp"
     android:paddingRight="50dp"
     android:paddingTop="50dp"
+    android:id="@+id/relativeLayout"
     android:background="#51b46d"
     tools:context="com.example.abdiljibarmahamoud.funfacts.FunFactsActivity">
 
