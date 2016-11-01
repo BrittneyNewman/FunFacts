@@ -36,7 +36,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="#fff"
-        android:text="Show Another Fun Fact"/>
+        android:text="Show Another Fun Fact"
+        android:textColor="#51b463" />
 
 
 </RelativeLayout>
